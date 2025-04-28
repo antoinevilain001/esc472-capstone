@@ -1,0 +1,16 @@
+# local_makefile
+CROSS_COMPILE = arm-ostl-linux-gnueabi-
+CC = $(CROSS_COMPILE)gcc
+
+TARGETS = local_receiver local_sender
+
+all: $(TARGETS)
+
+local_receiver: local_receiver.c
+	$(CC) local_receiver.c -o local_receiver
+
+local_sender: local_sender.c
+	$(CC) local_sender.c -o local_sender
+
+clean:
+	rm -f $(TARGETS)

@@ -1,0 +1,203 @@
+root@stm32mp1:~/antoine# taskset -c 1 chrt -f 99 ./roundtrip_stream_sender
+Streaming 100 packets to 192.168.10.3:5000...
+Sent packet 1 at 10531669431 us
+Sent packet 2 at 10531670494 us
+ACK for packet 1: RTT = 1323 us
+ACK for packet 2: RTT = 902 us
+Sent packet 3 at 10531671571 us
+ACK for packet 3: RTT = 814 us
+Sent packet 4 at 10531672543 us
+ACK for packet 4: RTT = 715 us
+Sent packet 5 at 10531673529 us
+ACK for packet 5: RTT = 690 us
+Sent packet 6 at 10531674484 us
+ACK for packet 6: RTT = 684 us
+Sent packet 7 at 10531675432 us
+ACK for packet 7: RTT = 683 us
+Sent packet 8 at 10531676501 us
+ACK for packet 8: RTT = 680 us
+Sent packet 9 at 10531677446 us
+ACK for packet 9: RTT = 676 us
+Sent packet 10 at 10531678508 us
+ACK for packet 10: RTT = 800 us
+Sent packet 11 at 10531679449 us
+ACK for packet 11: RTT = 802 us
+Sent packet 12 at 10531680520 us
+ACK for packet 12: RTT = 697 us
+Sent packet 13 at 10531681482 us
+ACK for packet 13: RTT = 680 us
+Sent packet 14 at 10531682547 us
+ACK for packet 14: RTT = 678 us
+Sent packet 15 at 10531683490 us
+ACK for packet 15: RTT = 675 us
+Sent packet 16 at 10531684549 us
+ACK for packet 16: RTT = 675 us
+Sent packet 17 at 10531685488 us
+ACK for packet 17: RTT = 678 us
+Sent packet 18 at 10531686499 us
+ACK for packet 18: RTT = 852 us
+Sent packet 19 at 10531687558 us
+ACK for packet 19: RTT = 782 us
+Sent packet 20 at 10531688532 us
+ACK for packet 20: RTT = 777 us
+Sent packet 21 at 10531689507 us
+ACK for packet 21: RTT = 810 us
+Sent packet 22 at 10531690510 us
+ACK for packet 22: RTT = 772 us
+Sent packet 23 at 10531691467 us
+ACK for packet 23: RTT = 706 us
+Sent packet 24 at 10531692500 us
+ACK for packet 24: RTT = 865 us
+Sent packet 25 at 10531693547 us
+ACK for packet 25: RTT = 718 us
+Sent packet 26 at 10531694448 us
+ACK for packet 26: RTT = 700 us
+Sent packet 27 at 10531695471 us
+ACK for packet 27: RTT = 715 us
+Sent packet 28 at 10531696510 us
+ACK for packet 28: RTT = 718 us
+Sent packet 29 at 10531697551 us
+ACK for packet 29: RTT = 718 us
+Sent packet 30 at 10531698451 us
+ACK for packet 30: RTT = 698 us
+Sent packet 31 at 10531699472 us
+ACK for packet 31: RTT = 807 us
+Sent packet 32 at 10531700469 us
+ACK for packet 32: RTT = 874 us
+Sent packet 33 at 10531701525 us
+ACK for packet 33: RTT = 871 us
+Sent packet 34 at 10531702575 us
+ACK for packet 34: RTT = 718 us
+Sent packet 35 at 10531703474 us
+ACK for packet 35: RTT = 701 us
+Sent packet 36 at 10531704499 us
+ACK for packet 36: RTT = 857 us
+Sent packet 37 at 10531705534 us
+ACK for packet 37: RTT = 725 us
+Sent packet 38 at 10531706444 us
+ACK for packet 38: RTT = 906 us
+Sent packet 39 at 10531707546 us
+ACK for packet 39: RTT = 800 us
+Sent packet 40 at 10531708507 us
+ACK for packet 40: RTT = 716 us
+Sent packet 41 at 10531709492 us
+ACK for packet 41: RTT = 737 us
+Sent packet 42 at 10531710505 us
+ACK for packet 42: RTT = 719 us
+Sent packet 43 at 10531711489 us
+ACK for packet 43: RTT = 689 us
+Sent packet 44 at 10531712444 us
+ACK for packet 44: RTT = 683 us
+Sent packet 45 at 10531713514 us
+ACK for packet 45: RTT = 681 us
+Sent packet 46 at 10531714459 us
+ACK for packet 46: RTT = 676 us
+Sent packet 47 at 10531715519 us
+ACK for packet 47: RTT = 674 us
+Sent packet 48 at 10531716456 us
+ACK for packet 48: RTT = 674 us
+Sent packet 49 at 10531717517 us
+ACK for packet 49: RTT = 675 us
+Sent packet 50 at 10531718455 us
+ACK for packet 50: RTT = 677 us
+Sent packet 51 at 10531719513 us
+ACK for packet 51: RTT = 818 us
+Sent packet 52 at 10531720483 us
+ACK for packet 52: RTT = 698 us
+Sent packet 53 at 10531721447 us
+ACK for packet 53: RTT = 681 us
+Sent packet 54 at 10531722515 us
+ACK for packet 54: RTT = 684 us
+Sent packet 55 at 10531723465 us
+ACK for packet 55: RTT = 677 us
+Sent packet 56 at 10531724527 us
+ACK for packet 56: RTT = 679 us
+Sent packet 57 at 10531725471 us
+ACK for packet 57: RTT = 679 us
+Sent packet 58 at 10531726440 us
+ACK for packet 58: RTT = 759 us
+Sent packet 59 at 10531727449 us
+ACK for packet 59: RTT = 806 us
+Sent packet 60 at 10531728448 us
+ACK for packet 60: RTT = 778 us
+Sent packet 61 at 10531729576 us
+ACK for packet 61: RTT = 849 us
+Sent packet 62 at 10531730613 us
+Sent packet 63 at 10531731481 us
+ACK for packet 62: RTT = 1008 us
+ACK for packet 63: RTT = 761 us
+Sent packet 64 at 10531732584 us
+ACK for packet 64: RTT = 855 us
+Sent packet 65 at 10531733619 us
+ACK for packet 65: RTT = 723 us
+Sent packet 66 at 10531734522 us
+ACK for packet 66: RTT = 706 us
+Sent packet 67 at 10531735553 us
+ACK for packet 67: RTT = 717 us
+Sent packet 68 at 10531736451 us
+ACK for packet 68: RTT = 700 us
+Sent packet 69 at 10531737473 us
+ACK for packet 69: RTT = 718 us
+Sent packet 70 at 10531738514 us
+ACK for packet 70: RTT = 724 us
+Sent packet 71 at 10531739562 us
+ACK for packet 71: RTT = 873 us
+Sent packet 72 at 10531740624 us
+Sent packet 73 at 10531741492 us
+ACK for packet 72: RTT = 1000 us
+ACK for packet 73: RTT = 753 us
+Sent packet 74 at 10531742587 us
+ACK for packet 74: RTT = 850 us
+Sent packet 75 at 10532077312 us
+Sent packet 76 at 10532077651 us
+Sent packet 77 at 10532077890 us
+Sent packet 78 at 10532078127 us
+Sent packet 79 at 10532078382 us
+ACK for packet 75: RTT = 1190 us
+Sent packet 80 at 10532078655 us
+ACK for packet 76: RTT = 1106 us
+Sent packet 81 at 10532078906 us
+ACK for packet 77: RTT = 1114 us
+Sent packet 82 at 10532079150 us
+ACK for packet 78: RTT = 1123 us
+Sent packet 83 at 10532079403 us
+ACK for packet 79: RTT = 1120 us
+Sent packet 84 at 10532079652 us
+ACK for packet 80: RTT = 1097 us
+Sent packet 85 at 10532079902 us
+ACK for packet 81: RTT = 1094 us
+Sent packet 86 at 10532080287 us
+ACK for packet 82: RTT = 1265 us
+Sent packet 87 at 10532080567 us
+ACK for packet 83: RTT = 1270 us
+Sent packet 88 at 10532080824 us
+ACK for packet 84: RTT = 1277 us
+Sent packet 89 at 10532081081 us
+ACK for packet 85: RTT = 1280 us
+Sent packet 90 at 10532081330 us
+ACK for packet 86: RTT = 1144 us
+Sent packet 91 at 10532081580 us
+ACK for packet 87: RTT = 1116 us
+Sent packet 92 at 10532081832 us
+ACK for packet 88: RTT = 1111 us
+Sent packet 93 at 10532082085 us
+ACK for packet 89: RTT = 1104 us
+Sent packet 94 at 10532082337 us
+ACK for packet 90: RTT = 1111 us
+Sent packet 95 at 10532082589 us
+ACK for packet 91: RTT = 1108 us
+Sent packet 96 at 10532082838 us
+ACK for packet 92: RTT = 1114 us
+Sent packet 97 at 10532083095 us
+ACK for packet 93: RTT = 1110 us
+Sent packet 98 at 10532083344 us
+ACK for packet 94: RTT = 1102 us
+Sent packet 99 at 10532083589 us
+ACK for packet 95: RTT = 1101 us
+Sent packet 100 at 10532083841 us
+ACK for packet 96: RTT = 1105 us
+ACK for packet 97: RTT = 1009 us
+ACK for packet 98: RTT = 925 us
+ACK for packet 99: RTT = 844 us
+ACK for packet 100: RTT = 754 us
+^C
