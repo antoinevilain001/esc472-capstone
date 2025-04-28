@@ -1,0 +1,37 @@
+Round-trip time: 1859.459000 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1830.375000 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1855.417000 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1683.166000 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1804.791000 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1676.667001 microseconds 
+
+root@stm32mp1:~/antoine# python3 round_trip_timing.py 
+
+Starting Program 
+
+Round-trip time: 1636.584000 microseconds 
